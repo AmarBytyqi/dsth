@@ -4,7 +4,7 @@
         <?php 
         $args=[
             // 'cat' => 2,
-            // 'category_name'=>'categoria 1',
+            // 'category_name'=>'post 1',
             // 'category_in'=>array(2,3),
             // 'category_and'=>array(2,3),
             'posts_per_page' => 5
